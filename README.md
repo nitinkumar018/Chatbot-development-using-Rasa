@@ -1,4 +1,5 @@
 # Project: Chatbot development using Rasa
+## Rasa provides a framework for developing AI chatbot (chatgpt) that uses natural language understanding (NLU). 
 ## chatbot is created on anaconda prompt using rasa framework
 ## first we created a new environment and then installed all the dependencies required in this project
 ## nlu file is a file in which we write all the questions which a user can ask to a chatbot. It includes intent and examples
