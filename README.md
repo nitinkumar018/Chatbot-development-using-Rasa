@@ -7,7 +7,7 @@
 ## mapping is done either in rules.yml or stories.yml but we usually prefer stories over rules
 ## rasa has config.yml file which has pipeline of rasa
 
-# intent_confusion_matrix.png shows each & every intent is correctly classified
-# test_chatbot_rasa.jpg shows how our chatbot works once we train & test the model
+## intent_confusion_matrix.png shows each & every intent is correctly classified
+## test_chatbot_rasa.jpg shows how our chatbot works once we train & test the model
 
-# Note:  ChatGPT is a Large Language Model (LLM) created by OpenAI. It is an AI chatbot 
+# Note: ChatGPT is a Large Language Model (LLM) created by OpenAI. It is an AI chatbot. LLMs are advanced AI models trained on vast text data
